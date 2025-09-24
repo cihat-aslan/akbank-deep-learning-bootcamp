@@ -30,4 +30,4 @@ Yapılan eğitim sonucunda, Transfer Learning yaklaşımının ne kadar etkili o
 
 Projenin tüm kodları, Markdown açıklamaları ve çıktıları aşağıdaki Kaggle notebook'unda bulunmaktadır:
 
-**[Buraya Kaydettiğin Son Kaggle Versiyonunun Linkini Yapıştır](https://www.kaggle.com/code/sarkazimabi/monkey-species)**
+**[https://www.kaggle.com/code/sarkazimabi/monkey-species](https://www.kaggle.com/code/sarkazimabi/monkey-species)**
